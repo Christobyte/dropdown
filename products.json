@@ -1,0 +1,26 @@
+[
+    {
+        "name": "D7500",
+        "picture": "https://cdn.nikoneurope.com/imported/images/web/EU/products/digital-cameras/dslr/D7500/PPDDs/nikon_dslr_d7500_0022_D7500_18_140_front_category_page--original.png",
+        "code": "VBA510AE",
+        "price": 1099,
+        "onstock": false,
+        "id": "63232699943007825"
+    },
+    {
+        "name": "D7500 + AF-S DX NIKKOR 18-105 VR",
+        "picture": "https://cdn.nikoneurope.com/imported/images/web/EU/products/digital-cameras/dslr/D7500/KitImages/nikon_dslr_d7500_black_AF-S-DX-NIKKOR-18-105mm-f-3.5-5.6G-ED-VR_kit_lens--original.jpg",
+        "code": "VBA510K001",
+        "price": 1299,
+        "onstock": true,
+        "id": "40646568016524547"
+    },
+    {
+        "name": "D7500 + AF-S DX NIKKOR 18-140 VR",
+        "picture": "https://cdn.nikoneurope.com/imported/images/web/EU/products/digital-cameras/dslr/D7500/KitImages/nikon_dslr_d7500_black_AFS_DX_18-140mm_kit_lens--original.jpg",
+        "code": "VBA510K002",
+        "price": 1349,
+        "onstock": false,
+        "id": "51960481829684041"
+     }
+  ]
